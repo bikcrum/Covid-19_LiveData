@@ -1,41 +1,41 @@
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
-Hubei,Mainland China,1/28/20 23:00,3554,125.0,80.0,30.9756,112.2707
-Guangdong,Mainland China,1/28/20 23:00,207,,4.0,23.3417,113.4244
-Zhejiang,Mainland China,1/28/20 23:00,173,,3.0,29.1832,120.0934
-Henan,Mainland China,1/28/20 23:00,168,1.0,,33.882,113.614
-Hunan,Mainland China,1/28/20 23:00,143,,,27.6104,111.7088
-Chongqing,Mainland China,1/28/20 23:00,132,,,30.0572,107.874
-Jiangxi,Mainland China,1/28/20 23:00,109,,3.0,27.614,115.7221
-Anhui,Mainland China,1/28/20 23:00,106,,,31.8257,117.2264
-Shandong,Mainland China,1/28/20 23:00,95,,,36.3427,118.1498
-Beijing,Mainland China,1/28/20 23:00,91,1.0,4.0,40.1824,116.4142
-Sichuan,Mainland China,1/28/20 23:00,90,,,30.6171,102.7103
-Fujian,Mainland China,1/28/20 23:00,80,,,26.0789,117.9874
-Jiangsu,Mainland China,1/28/20 23:00,70,,1.0,32.9711,119.455
-Shanghai,Mainland China,1/28/20 23:00,66,1.0,4.0,31.202,121.4491
-Guangxi,Mainland China,1/28/20 23:00,51,,2.0,23.8298,108.7881
-Shaanxi,Mainland China,1/28/20 23:00,46,,,35.1917,108.8701
-Yunnan,Mainland China,1/28/20 23:00,44,,,24.974,101.487
-Hainan,Mainland China,1/28/20 23:00,40,1.0,,19.1959,109.7453
-Liaoning,Mainland China,1/28/20 23:00,34,,,41.2956,122.6085
-Hebei,Mainland China,1/28/20 23:00,33,1.0,,39.549,116.1306
-Heilongjiang,Mainland China,1/28/20 23:00,33,1.0,,47.862,127.7615
-Shanxi,Mainland China,1/28/20 23:00,27,,,37.5777,112.2922
-Tianjin,Mainland China,1/28/20 23:00,24,,,39.3054,117.323
-Gansu,Mainland China,1/28/20 23:00,19,,,37.8099,101.0583
-Inner Mongolia,Mainland China,1/28/20 23:00,15,,,44.0935,113.9448
-Ningxia,Mainland China,1/28/20 23:00,11,,,37.2692,106.1655
-Xinjiang,Mainland China,1/28/20 23:00,10,,,41.1129,85.2401
-Guizhou,Mainland China,1/28/20 23:00,9,,,26.8154,106.8748
-Jilin,Mainland China,1/28/20 23:00,8,,,43.6661,126.1923
-Hong Kong,Hong Kong,1/28/20 23:00,8,,,22.3,114.2
-Macau,Macau,1/28/20 23:00,7,,,22.1667,113.55
-Qinghai,Mainland China,1/28/20 23:00,6,,,35.7452,95.9956
-Washington,US,1/28/20 23:00,1,,,46.98299757,-118.56017340000001
-Illinois,US,1/28/20 23:00,1,,,39.98815591,-91.18786813
-California,US,1/28/20 23:00,2,,,37.64629437,-121.8929271
-Arizona,US,1/28/20 23:00,1,,,35.39465006,-109.4892383
-Ontario,Canada,1/28/20 23:00,1,,,51.2538,-85.3232
-British Columbia,Canada,1/28/20 23:00,1,,,53.7267,-127.6476
-New South Wales,Australia,1/28/20 23:00,4,,,-33.8688,151.2093
-Victoria,Australia,1/28/20 23:00,1,,,-37.8136,144.9631
+Hubei,Mainland China,1/28/20 23:00,3554,125,80,30.9756,112.2707
+Guangdong,Mainland China,1/28/20 23:00,207,0,4,23.3417,113.4244
+Zhejiang,Mainland China,1/28/20 23:00,173,0,3,29.1832,120.0934
+Henan,Mainland China,1/28/20 23:00,168,1,0,33.882,113.614
+Hunan,Mainland China,1/28/20 23:00,143,0,0,27.6104,111.7088
+Chongqing,Mainland China,1/28/20 23:00,132,0,0,30.0572,107.874
+Jiangxi,Mainland China,1/28/20 23:00,109,0,3,27.614,115.7221
+Anhui,Mainland China,1/28/20 23:00,106,0,0,31.8257,117.2264
+Shandong,Mainland China,1/28/20 23:00,95,0,0,36.3427,118.1498
+Beijing,Mainland China,1/28/20 23:00,91,1,4,40.1824,116.4142
+Sichuan,Mainland China,1/28/20 23:00,90,0,0,30.6171,102.7103
+Fujian,Mainland China,1/28/20 23:00,80,0,0,26.0789,117.9874
+Jiangsu,Mainland China,1/28/20 23:00,70,0,1,32.9711,119.455
+Shanghai,Mainland China,1/28/20 23:00,66,1,4,31.202,121.4491
+Guangxi,Mainland China,1/28/20 23:00,51,0,2,23.8298,108.7881
+Shaanxi,Mainland China,1/28/20 23:00,46,0,0,35.1917,108.8701
+Yunnan,Mainland China,1/28/20 23:00,44,0,0,24.974,101.487
+Hainan,Mainland China,1/28/20 23:00,40,1,0,19.1959,109.7453
+Liaoning,Mainland China,1/28/20 23:00,34,0,0,41.2956,122.6085
+Hebei,Mainland China,1/28/20 23:00,33,1,0,39.549,116.1306
+Heilongjiang,Mainland China,1/28/20 23:00,33,1,0,47.862,127.7615
+Shanxi,Mainland China,1/28/20 23:00,27,0,0,37.5777,112.2922
+Tianjin,Mainland China,1/28/20 23:00,24,0,0,39.3054,117.323
+Gansu,Mainland China,1/28/20 23:00,19,0,0,37.8099,101.0583
+Inner Mongolia,Mainland China,1/28/20 23:00,15,0,0,44.0935,113.9448
+Ningxia,Mainland China,1/28/20 23:00,11,0,0,37.2692,106.1655
+Xinjiang,Mainland China,1/28/20 23:00,10,0,0,41.1129,85.2401
+Guizhou,Mainland China,1/28/20 23:00,9,0,0,26.8154,106.8748
+Jilin,Mainland China,1/28/20 23:00,8,0,0,43.6661,126.1923
+Hong Kong,Hong Kong,1/28/20 23:00,8,0,0,22.3,114.2
+Macau,Macau,1/28/20 23:00,7,0,0,22.1667,113.55
+Qinghai,Mainland China,1/28/20 23:00,6,0,0,35.7452,95.9956
+Washington,US,1/28/20 23:00,1,0,0,46.98299757,-118.56017340000001
+Illinois,US,1/28/20 23:00,1,0,0,39.98815591,-91.18786813
+California,US,1/28/20 23:00,2,0,0,37.64629437,-121.8929271
+Arizona,US,1/28/20 23:00,1,0,0,35.39465006,-109.4892383
+Ontario,Canada,1/28/20 23:00,1,0,0,51.2538,-85.3232
+British Columbia,Canada,1/28/20 23:00,1,0,0,53.7267,-127.6476
+New South Wales,Australia,1/28/20 23:00,4,0,0,-33.8688,151.2093
+Victoria,Australia,1/28/20 23:00,1,0,0,-37.8136,144.9631

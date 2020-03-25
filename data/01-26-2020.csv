@@ -1,38 +1,38 @@
 Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
-Hubei,Mainland China,1/26/20 16:00,1058,52.0,42.0,30.9756,112.2707
-Guangdong,Mainland China,1/26/20 16:00,111,,2.0,23.3417,113.4244
-Zhejiang,Mainland China,1/26/20 16:00,104,,1.0,29.1832,120.0934
-Henan,Mainland China,1/26/20 16:00,83,1.0,,33.882,113.614
-Chongqing,Mainland China,1/26/20 16:00,75,,,30.0572,107.874
-Hunan,Mainland China,1/26/20 16:00,69,,,27.6104,111.7088
-Beijing,Mainland China,1/26/20 16:00,68,,2.0,40.1824,116.4142
-Anhui,Mainland China,1/26/20 16:00,60,,,31.8257,117.2264
-Shandong,Mainland China,1/26/20 16:00,46,,,36.3427,118.1498
-Sichuan,Mainland China,1/26/20 16:00,44,,,30.6171,102.7103
-Shanghai,Mainland China,1/26/20 16:00,40,1.0,1.0,31.202,121.4491
-Guangxi,Mainland China,1/26/20 16:00,36,,,23.8298,108.7881
-Jiangxi,Mainland China,1/26/20 16:00,36,,,27.614,115.7221
-Fujian,Mainland China,1/26/20 16:00,35,,,26.0789,117.9874
-Jiangsu,Mainland China,1/26/20 16:00,33,,1.0,32.9711,119.455
-Hainan,Mainland China,1/26/20 16:00,22,,,19.1959,109.7453
-Shaanxi,Mainland China,1/26/20 16:00,22,,,35.1917,108.8701
-Liaoning,Mainland China,1/26/20 16:00,21,,,41.2956,122.6085
-Yunnan,Mainland China,1/26/20 16:00,16,,,24.974,101.487
-Heilongjiang,Mainland China,1/26/20 16:00,15,1.0,,47.862,127.7615
-Tianjin,Mainland China,1/26/20 16:00,14,,,39.3054,117.323
-Hebei,Mainland China,1/26/20 16:00,13,1.0,,39.549,116.1306
-Shanxi,Mainland China,1/26/20 16:00,9,,,37.5777,112.2922
-Hong Kong,Hong Kong,1/26/20 16:00,8,,,22.3,114.2
-Inner Mongolia,Mainland China,1/26/20 16:00,7,,,44.0935,113.9448
-Gansu,Mainland China,1/26/20 16:00,7,,,37.8099,101.0583
-Guizhou,Mainland China,1/26/20 16:00,5,,,26.8154,106.8748
-Macau,Macau,1/26/20 16:00,5,,,22.1667,113.55
-Ningxia,Mainland China,1/26/20 16:00,4,,,37.2692,106.1655
-Jilin,Mainland China,1/26/20 16:00,4,,,43.6661,126.1923
-Xinjiang,Mainland China,1/26/20 16:00,4,,,41.1129,85.2401
-Qinghai,Mainland China,1/26/20 16:00,1,,,35.7452,95.9956
-Washington,US,1/26/20 16:00,1,,,46.98299757,-118.56017340000001
-Illinois,US,1/26/20 16:00,1,,,39.98815591,-91.18786813
-California,US,1/26/20 16:00,2,,,37.64629437,-121.8929271
-Arizona,US,1/26/20 16:00,1,,,35.39465006,-109.4892383
-Ontario,Canada,1/26/20 16:00,1,,,51.2538,-85.3232
+Hubei,Mainland China,1/26/20 16:00,1058,52,42,30.9756,112.2707
+Guangdong,Mainland China,1/26/20 16:00,111,0,2,23.3417,113.4244
+Zhejiang,Mainland China,1/26/20 16:00,104,0,1,29.1832,120.0934
+Henan,Mainland China,1/26/20 16:00,83,1,0,33.882,113.614
+Chongqing,Mainland China,1/26/20 16:00,75,0,0,30.0572,107.874
+Hunan,Mainland China,1/26/20 16:00,69,0,0,27.6104,111.7088
+Beijing,Mainland China,1/26/20 16:00,68,0,2,40.1824,116.4142
+Anhui,Mainland China,1/26/20 16:00,60,0,0,31.8257,117.2264
+Shandong,Mainland China,1/26/20 16:00,46,0,0,36.3427,118.1498
+Sichuan,Mainland China,1/26/20 16:00,44,0,0,30.6171,102.7103
+Shanghai,Mainland China,1/26/20 16:00,40,1,1,31.202,121.4491
+Guangxi,Mainland China,1/26/20 16:00,36,0,0,23.8298,108.7881
+Jiangxi,Mainland China,1/26/20 16:00,36,0,0,27.614,115.7221
+Fujian,Mainland China,1/26/20 16:00,35,0,0,26.0789,117.9874
+Jiangsu,Mainland China,1/26/20 16:00,33,0,1,32.9711,119.455
+Hainan,Mainland China,1/26/20 16:00,22,0,0,19.1959,109.7453
+Shaanxi,Mainland China,1/26/20 16:00,22,0,0,35.1917,108.8701
+Liaoning,Mainland China,1/26/20 16:00,21,0,0,41.2956,122.6085
+Yunnan,Mainland China,1/26/20 16:00,16,0,0,24.974,101.487
+Heilongjiang,Mainland China,1/26/20 16:00,15,1,0,47.862,127.7615
+Tianjin,Mainland China,1/26/20 16:00,14,0,0,39.3054,117.323
+Hebei,Mainland China,1/26/20 16:00,13,1,0,39.549,116.1306
+Shanxi,Mainland China,1/26/20 16:00,9,0,0,37.5777,112.2922
+Hong Kong,Hong Kong,1/26/20 16:00,8,0,0,22.3,114.2
+Inner Mongolia,Mainland China,1/26/20 16:00,7,0,0,44.0935,113.9448
+Gansu,Mainland China,1/26/20 16:00,7,0,0,37.8099,101.0583
+Guizhou,Mainland China,1/26/20 16:00,5,0,0,26.8154,106.8748
+Macau,Macau,1/26/20 16:00,5,0,0,22.1667,113.55
+Ningxia,Mainland China,1/26/20 16:00,4,0,0,37.2692,106.1655
+Jilin,Mainland China,1/26/20 16:00,4,0,0,43.6661,126.1923
+Xinjiang,Mainland China,1/26/20 16:00,4,0,0,41.1129,85.2401
+Qinghai,Mainland China,1/26/20 16:00,1,0,0,35.7452,95.9956
+Washington,US,1/26/20 16:00,1,0,0,46.98299757,-118.56017340000001
+Illinois,US,1/26/20 16:00,1,0,0,39.98815591,-91.18786813
+California,US,1/26/20 16:00,2,0,0,37.64629437,-121.8929271
+Arizona,US,1/26/20 16:00,1,0,0,35.39465006,-109.4892383
+Ontario,Canada,1/26/20 16:00,1,0,0,51.2538,-85.3232
