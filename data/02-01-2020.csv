@@ -1,0 +1,40 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+Hubei,Mainland China,2/1/2020 11:53,7153,249,168,30.9756,112.2707
+Zhejiang,Mainland China,2/1/2020 10:53,599,0,21,29.1832,120.0934
+Guangdong,Mainland China,2/1/2020 14:23,535,0,14,23.3417,113.4244
+Henan,Mainland China,2/1/2020 1:52,422,2,3,33.882,113.614
+Hunan,Mainland China,2/1/2020 11:03,389,0,8,27.6104,111.7088
+Anhui,Mainland China,2/1/2020 13:33,297,0,5,31.8257,117.2264
+Jiangxi,Mainland China,2/1/2020 1:52,286,0,9,27.614,115.7221
+Chongqing,Mainland China,2/1/2020 8:43,247,1,3,30.0572,107.874
+Sichuan,Mainland China,2/1/2020 1:52,207,1,3,30.6171,102.7103
+Shandong,Mainland China,2/1/2020 7:51,206,0,3,36.3427,118.1498
+Jiangsu,Mainland China,2/1/2020 14:03,202,0,6,32.9711,119.455
+Shanghai,Mainland China,2/1/2020 6:05,169,1,10,31.202,121.4491
+Beijing,Mainland China,2/1/2020 9:17,168,1,9,40.1824,116.4142
+Fujian,Mainland China,2/1/2020 5:37,144,0,0,26.0789,117.9874
+Shaanxi,Mainland China,2/1/2020 5:37,101,0,0,35.1917,108.8701
+Guangxi,Mainland China,2/1/2020 1:52,100,0,2,23.8298,108.7881
+Hebei,Mainland China,2/1/2020 1:52,96,1,0,39.549,116.1306
+Yunnan,Mainland China,2/1/2020 15:53,93,0,2,24.974,101.487
+Heilongjiang,Mainland China,2/1/2020 10:33,80,2,2,47.862,127.7615
+Liaoning,Mainland China,2/1/2020 15:23,64,0,1,41.2956,122.6085
+Hainan,Mainland China,2/1/2020 8:43,62,1,1,19.1959,109.7453
+Shanxi,Mainland China,2/1/2020 1:52,47,0,1,37.5777,112.2922
+Tianjin,Mainland China,2/1/2020 15:43,41,0,0,39.3054,117.323
+Gansu,Mainland China,2/1/2020 15:43,40,0,0,37.8099,101.0583
+Guizhou,Mainland China,1/31/2020 15:20,29,0,2,26.8154,106.8748
+Ningxia,Mainland China,2/1/2020 2:13,26,0,0,37.2692,106.1655
+Inner Mongolia,Mainland China,2/1/2020 5:37,23,0,1,44.0935,113.9448
+Xinjiang,Mainland China,2/1/2020 5:37,18,0,0,41.1129,85.2401
+Jilin,Mainland China,2/1/2020 1:52,17,0,1,43.6661,126.1923
+Hong Kong,Hong Kong,2/1/2020 5:37,13,0,0,22.3,114.2
+Qinghai,Mainland China,2/1/2020 5:37,9,0,0,35.7452,95.9956
+Macau,Macau,1/31/2020 8:15,7,0,0,22.1667,113.55
+New South Wales,Australia,2/1/2020 18:12,4,0,2,-33.8688,151.2093
+Victoria,Australia,2/1/2020 18:12,4,0,0,-37.8136,144.9631
+Queensland,Australia,2/1/2020 18:12,3,0,0,-27.4698,153.0251
+Ontario,Canada,2/1/2020 18:12,3,0,0,51.2538,-85.3232
+South Australia,Australia,2/1/2020 18:12,1,0,0,-34.9285,138.6007
+British Columbia,Canada,2/1/2020 18:12,1,0,0,53.7267,-127.6476
+Tibet,Mainland China,2/1/2020 1:52,1,0,0,31.6927,88.0924

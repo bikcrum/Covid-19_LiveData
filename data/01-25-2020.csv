@@ -1,0 +1,35 @@
+Province/State,Country/Region,Last Update,Confirmed,Deaths,Recovered,Latitude,Longitude
+Hubei,Mainland China,1/25/20 17:00,761,40.0,32.0,30.9756,112.2707
+Guangdong,Mainland China,1/25/20 17:00,78,,2.0,23.3417,113.4244
+Zhejiang,Mainland China,1/25/20 17:00,62,,1.0,29.1832,120.0934
+Chongqing,Mainland China,1/25/20 17:00,57,,,30.0572,107.874
+Hunan,Mainland China,1/25/20 17:00,43,,,27.6104,111.7088
+Beijing,Mainland China,1/25/20 17:00,41,,2.0,40.1824,116.4142
+Anhui,Mainland China,1/25/20 17:00,39,,,31.8257,117.2264
+Shanghai,Mainland China,1/25/20 17:00,33,,1.0,31.202,121.4491
+Henan,Mainland China,1/25/20 17:00,32,,,33.882,113.614
+Sichuan,Mainland China,1/25/20 17:00,28,,,30.6171,102.7103
+Shandong,Mainland China,1/25/20 17:00,27,,,36.3427,118.1498
+Guangxi,Mainland China,1/25/20 17:00,23,,,23.8298,108.7881
+Hainan,Mainland China,1/25/20 17:00,19,,,19.1959,109.7453
+Jiangxi,Mainland China,1/25/20 17:00,18,,,27.614,115.7221
+Fujian,Mainland China,1/25/20 17:00,18,,,26.0789,117.9874
+Jiangsu,Mainland China,1/25/20 17:00,18,,1.0,32.9711,119.455
+Liaoning,Mainland China,1/25/20 17:00,17,,,41.2956,122.6085
+Shaanxi,Mainland China,1/25/20 17:00,15,,,35.1917,108.8701
+Yunnan,Mainland China,1/25/20 17:00,11,,,24.974,101.487
+Tianjin,Mainland China,1/25/20 17:00,10,,,39.3054,117.323
+Heilongjiang,Mainland China,1/25/20 17:00,9,1.0,,47.862,127.7615
+Hebei,Mainland China,1/25/20 17:00,8,1.0,,39.549,116.1306
+Inner Mongolia,Mainland China,1/25/20 17:00,7,,,44.0935,113.9448
+Shanxi,Mainland China,1/25/20 17:00,6,,,37.5777,112.2922
+Hong Kong,Hong Kong,1/25/20 17:00,5,,,22.3,114.2
+Guizhou,Mainland China,1/25/20 17:00,4,,,26.8154,106.8748
+Jilin,Mainland China,1/25/20 17:00,4,,,43.6661,126.1923
+Gansu,Mainland China,1/25/20 17:00,4,,,37.8099,101.0583
+Ningxia,Mainland China,1/25/20 17:00,3,,,37.2692,106.1655
+Xinjiang,Mainland China,1/25/20 17:00,3,,,41.1129,85.2401
+Macau,Macau,1/25/20 17:00,2,,,22.1667,113.55
+Qinghai,Mainland China,1/25/20 17:00,1,,,35.7452,95.9956
+Washington,US,1/25/20 17:00,1,,,46.98299757,-118.56017340000001
+Illinois,US,1/25/20 17:00,1,,,39.98815591,-91.18786813
