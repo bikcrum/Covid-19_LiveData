@@ -3,5 +3,7 @@
   "interstitialAdFrequency: 1.0 
   "versionCode": 3,
   "forceResetDataInUpdate": false,
-  "blockApp": false
+  "blockApp": false,
+  "first_updated": "01-22-2020",
+  "last_updated": "04-01-2020"
 }
