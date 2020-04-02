@@ -1,6 +1,6 @@
 {
   "bannerAdFrequency": 1,
-  "interstitialAdFrequency: 1.0 
+  "interstitialAdFrequency": 1.0,
   "versionCode": 3,
   "forceResetDataInUpdate": false,
   "blockApp": false,
