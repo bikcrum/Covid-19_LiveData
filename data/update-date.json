@@ -1,6 +1,6 @@
 {
   "bannerAdFrequency": 1,
-  "interstitialAdFrequency": 1.0,
+  "interstitialAdFrequency": 6,
   "versionCode": 4,
   "redirectLink":"https://drive.google.com/open?id=19Og6oy1AQC72nnkSMMY79ik33HfYIEky",
   "first_updated": "01-22-2020",
