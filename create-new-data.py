@@ -3,9 +3,11 @@ import requests
 import pandas as pd
 from io import StringIO
 import os
+import sys
 
 
 def export_csv(endpoint, output_dir):
+    print(endpoint, output_dir)
     r = requests.get(endpoint)
     df = pd.read_csv(StringIO(r.text))
     df = df.drop(["FIPS", "Admin2", "Active", "Combined_Key"], axis=1)
@@ -60,9 +62,13 @@ def export_csv(endpoint, output_dir):
     print(len(df), df['Confirmed'].sum())
 
 
-for i in range(1, 2):
-    time = datetime.strftime(datetime.now() - timedelta(i), '%m-%d-%Y')
-    print("processing", time)
-    export_csv(
-        'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{}.csv'.format(
-            time), '')
+if len(sys.argv) >= 2:
+    output_dir = sys.argv[1]
+else:
+    output_dir = ''
+
+time = datetime.strftime(datetime.now() - timedelta(2), '%m-%d-%Y')
+print("processing", time)
+export_csv(
+    'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{}.csv'.format(
+        time), output_dir)
