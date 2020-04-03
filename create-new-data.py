@@ -67,7 +67,7 @@ if len(sys.argv) >= 2:
 else:
     output_dir = ''
 
-time = datetime.strftime(datetime.now() - timedelta(2), '%m-%d-%Y')
+time = datetime.strftime(datetime.now() - timedelta(1), '%m-%d-%Y')
 print("processing", time)
 export_csv(
     'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{}.csv'.format(
