@@ -1,12 +1,26 @@
-from datetime import timedelta, datetime
-import requests
-import pandas as pd
-from io import StringIO
+import json
 import os
-import sys
+from datetime import timedelta, datetime
+from io import StringIO
+import pandas as pd
+import requests
 
 
-def export_csv(endpoint, output_dir):
+def write(file, key, time):
+    config_file = open(file, 'r')
+
+    config_file_json = json.load(config_file)
+    config_file_json[key] = time
+
+    config_file.close()
+    config_file = open(file, 'w')
+
+    json.dump(config_file_json, config_file, ensure_ascii=False, indent=4)
+
+    config_file.close()
+
+
+def export_csv(endpoint, time, output_dir):
     print(endpoint, output_dir)
     r = requests.get(endpoint)
     df = pd.read_csv(StringIO(r.text))
@@ -61,14 +75,12 @@ def export_csv(endpoint, output_dir):
 
     print(len(df), df['Confirmed'].sum())
 
+    write(os.path.join(output_dir, 'config.json'), 'last_updated', time)
+    write(os.path.join(output_dir, 'update-date.json'), 'last_updated', time)
 
-if len(sys.argv) >= 2:
-    output_dir = sys.argv[1]
-else:
-    output_dir = ''
 
 time = datetime.strftime(datetime.now() - timedelta(1), '%m-%d-%Y')
 print("processing", time)
 export_csv(
     'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{}.csv'.format(
-        time), output_dir)
+        time), time, 'data')
