@@ -1,6 +1,6 @@
 {
     "first_updated": "01-22-2020",
-    "interstitialAdFrequency": 6,
+    "interstitialAdFrequency": 0,
     "last_updated": "04-06-2020",
     "interstitialAdFrequencyMultiplier": 2,
     "bannerAdFrequency": 1,
