@@ -24,7 +24,7 @@
   $2/git pull origin $5
 
   echo "#6 COMMAND: python3 create-new-data.py data"
-  $1/python3 create-new-data.py data
+  $1/python3 create-new-data.py
 
   echo "#7 COMMAND: $2/git status"
   $2/git status
