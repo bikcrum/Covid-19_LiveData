@@ -84,3 +84,22 @@ print("processing", time)
 export_csv(
     'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{}.csv'.format(
         time), time, 'data')
+
+"""
+# Automatic script to pull multiple data in date range
+
+start = datetime.strptime('06-28-2020', '%m-%d-%Y')
+end = datetime.strptime('08-02-2020', '%m-%d-%Y')
+
+# multiple
+offset = 0
+while start <= end:
+    time = datetime.strftime(start + timedelta(offset), '%m-%d-%Y')
+    try:
+        export_csv(
+            'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/{}.csv'.format(
+                time), time, 'data')
+        offset += 1
+    except:
+        continue
+"""
