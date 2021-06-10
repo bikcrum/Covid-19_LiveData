@@ -1,9 +1,9 @@
 {
+    "redirectLink": "https://drive.google.com/open?id=19Og6oy1AQC72nnkSMMY79ik33HfYIEky",
+    "last_updated": "06-09-2021",
     "interstitialAdFrequencyMultiplier": 0,
     "versionCode": 11,
+    "bannerAdFrequency": 1,
     "interstitialAdFrequency": 0,
-    "redirectLink": "https://drive.google.com/open?id=19Og6oy1AQC72nnkSMMY79ik33HfYIEky",
-    "first_updated": "01-22-2020",
-    "last_updated": "06-08-2021",
-    "bannerAdFrequency": 1
+    "first_updated": "01-22-2020"
 }
